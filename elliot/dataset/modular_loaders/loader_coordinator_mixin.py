@@ -65,7 +65,8 @@ class LoaderCoordinator:
         if isinstance(dataframe, list):
             new_dataframe = []
             for tr, te in dataframe:
-                test = self.clean_dataframe(te, users, items)
+                # test = self.clean_dataframe(te, users, items)
+                test = te
                 if isinstance(tr, list):
                     train_fold = []
                     for tr_, va in tr:
@@ -74,6 +75,7 @@ class LoaderCoordinator:
                         train_fold.append((tr_, va))
                 else:
                     train_fold = self.clean_dataframe(tr, users, items)
+                train_fold = tr
                 new_dataframe.append((train_fold, test))
             dataframe = new_dataframe
             # dataframe = [([(self.clean_dataframe(tr_, users, items), self.clean_dataframe(va, users, items)) for tr_, va in tr], self.clean_dataframe(te, users, items)) for tr, te in dataframe]
