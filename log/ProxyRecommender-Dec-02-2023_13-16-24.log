@@ -1,0 +1,20 @@
+2023-12-02 13:16:27.596839: I Loading parameters
+2023-12-02 13:16:27.596926: I Parameter name set to 
+2023-12-02 13:16:27.596989: I Parameter path set to external_predictions/multimedia/movielens/keras_merge_fit_generator.tsv
+2023-12-02 13:16:34.112869: I Finished
+2023-12-02 13:16:34.113574: I ******************************************
+2023-12-02 13:16:34.116870: I Loading parameters
+2023-12-02 13:16:34.116952: I Parameter name set to 
+2023-12-02 13:16:34.116981: I Parameter path set to external_predictions/multimedia/movielens/keras_concat_generator.tsv
+2023-12-02 13:16:40.262134: I Finished
+2023-12-02 13:16:40.262323: I ******************************************
+2023-12-02 13:16:40.266305: I Loading parameters
+2023-12-02 13:16:40.266677: I Parameter name set to 
+2023-12-02 13:16:40.266946: I Parameter path set to external_predictions/multimedia/movielens/keras_merge_fit.tsv
+2023-12-02 13:16:46.445303: I Finished
+2023-12-02 13:16:46.445706: I ******************************************
+2023-12-02 13:16:46.448692: I Loading parameters
+2023-12-02 13:16:46.448838: I Parameter name set to 
+2023-12-02 13:16:46.448997: I Parameter path set to external_predictions/multimedia/movielens/torch_concat_nograd.tsv
+2023-12-02 13:16:52.593805: I Finished
+2023-12-02 13:16:52.594785: I ******************************************

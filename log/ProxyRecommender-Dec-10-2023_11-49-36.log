@@ -1,0 +1,20 @@
+2023-12-10 11:49:39.313830: I Loading parameters
+2023-12-10 11:49:39.313935: I Parameter name set to 
+2023-12-10 11:49:39.313975: I Parameter path set to external_predictions/multimedia/movielens/compgcn_uni_k192_n1_top5.tsv
+2023-12-10 11:49:45.819671: I Finished
+2023-12-10 11:49:45.820940: I ******************************************
+2023-12-10 11:49:45.825077: I Loading parameters
+2023-12-10 11:49:45.825405: I Parameter name set to 
+2023-12-10 11:49:45.825494: I Parameter path set to external_predictions/multimedia/movielens/compgcn_uni_k384_n1_top5.tsv
+2023-12-10 11:49:52.221049: I Finished
+2023-12-10 11:49:52.221623: I ******************************************
+2023-12-10 11:49:52.224275: I Loading parameters
+2023-12-10 11:49:52.224376: I Parameter name set to 
+2023-12-10 11:49:52.224616: I Parameter path set to external_predictions/multimedia/movielens/compgcn_uni_k192_n2_top5.tsv
+2023-12-10 11:49:58.810902: I Finished
+2023-12-10 11:49:58.811613: I ******************************************
+2023-12-10 11:49:58.814263: I Loading parameters
+2023-12-10 11:49:58.814392: I Parameter name set to 
+2023-12-10 11:49:58.814546: I Parameter path set to external_predictions/multimedia/movielens/compgcn_uni_k192_n3_top5.tsv
+2023-12-10 11:50:04.961682: I Finished
+2023-12-10 11:50:04.961963: I ******************************************

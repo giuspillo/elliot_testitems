@@ -1,0 +1,30 @@
+2023-12-07 13:34:42.623770: I Loading parameters
+2023-12-07 13:34:42.623857: I Parameter name set to 
+2023-12-07 13:34:42.623922: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_concat_top5.tsv
+2023-12-07 13:34:48.800944: I Finished
+2023-12-07 13:34:48.801551: I ******************************************
+2023-12-07 13:34:48.804569: I Loading parameters
+2023-12-07 13:34:48.804699: I Parameter name set to 
+2023-12-07 13:34:48.804764: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop03_self_cross_top5.tsv
+2023-12-07 13:34:55.109433: I Finished
+2023-12-07 13:34:55.110184: I ******************************************
+2023-12-07 13:34:55.113599: I Loading parameters
+2023-12-07 13:34:55.113786: I Parameter name set to 
+2023-12-07 13:34:55.113899: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop03_2self_cross_top5.tsv
+2023-12-07 13:35:01.228599: I Finished
+2023-12-07 13:35:01.229329: I ******************************************
+2023-12-07 13:35:01.233176: I Loading parameters
+2023-12-07 13:35:01.233414: I Parameter name set to 
+2023-12-07 13:35:01.233486: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop04_self_cross_top5.tsv
+2023-12-07 13:35:07.945781: I Finished
+2023-12-07 13:35:07.947886: I ******************************************
+2023-12-07 13:35:07.950562: I Loading parameters
+2023-12-07 13:35:07.950842: I Parameter name set to 
+2023-12-07 13:35:07.950933: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop03_self_self_top5.tsv
+2023-12-07 13:35:14.026857: I Finished
+2023-12-07 13:35:14.027335: I ******************************************
+2023-12-07 13:35:14.031013: I Loading parameters
+2023-12-07 13:35:14.031221: I Parameter name set to 
+2023-12-07 13:35:14.031402: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop035_self_cross_top5.tsv
+2023-12-07 13:35:20.554796: I Finished
+2023-12-07 13:35:20.555633: I ******************************************

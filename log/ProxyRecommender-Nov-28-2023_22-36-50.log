@@ -1,0 +1,18 @@
+2023-11-28 22:36:53.195617: I Loading parameters
+2023-11-28 22:36:53.195808: I Parameter name set to 
+2023-11-28 22:36:53.195922: I Parameter path set to predictions/umap/movielens/0 graph + word.tsv
+2023-11-28 22:37:05.251064: I Finished
+2023-11-28 22:37:05.252719: I ******************************************
+2023-11-28 22:37:05.256708: I Loading parameters
+2023-11-28 22:37:05.257055: I Parameter name set to 
+2023-11-28 22:37:05.257221: I Parameter path set to predictions/umap/movielens/drop 08_selfatt_concat.tsv
+2023-11-28 22:37:16.538371: I Finished
+2023-11-28 22:37:16.539511: I ******************************************
+2023-11-28 22:37:16.545445: I Loading parameters
+2023-11-28 22:37:16.545773: I Parameter name set to 
+2023-11-28 22:37:16.546152: I Parameter path set to predictions/umap/movielens/drop 05_selfatt_concat.tsv
+2023-11-28 22:37:28.463939: I Finished
+2023-11-28 22:37:28.464742: I ******************************************
+2023-11-28 22:37:28.468514: I Loading parameters
+2023-11-28 22:37:28.469038: I Parameter name set to 
+2023-11-28 22:37:28.469217: I Parameter path set to predictions/umap/movielens/allself.tsv

@@ -1,0 +1,14 @@
+2023-12-18 15:23:39.497461: I Loading parameters
+2023-12-18 15:23:39.497578: I Parameter neighbors set to 5000
+2023-12-18 15:23:39.497667: I Parameter similarity set to cosine
+2023-12-18 15:23:39.497785: I Parameter implementation set to classical
+2023-12-18 15:23:39.497817: I Parameter implicit set to False
+2023-12-18 15:23:39.497898: I Parameter shrink set to 0
+2023-12-18 15:23:39.497949: I Parameter normalize set to True
+2023-12-18 15:23:39.497987: I Parameter asymmetric_alpha set to False
+2023-12-18 15:23:39.498010: I Parameter tversky_alpha set to False
+2023-12-18 15:23:39.498033: I Parameter tversky_beta set to False
+2023-12-18 15:23:39.498056: I Parameter row_weights set to None
+2023-12-18 15:23:49.419546: I Finished
+2023-12-18 15:23:49.419709: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:23:49.438189: I ******************************************

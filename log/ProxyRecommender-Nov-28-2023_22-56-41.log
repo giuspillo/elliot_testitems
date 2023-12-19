@@ -1,0 +1,15 @@
+2023-11-28 22:56:44.794065: I Loading parameters
+2023-11-28 22:56:44.794205: I Parameter name set to 
+2023-11-28 22:56:44.794270: I Parameter path set to predictions/multimedia/movielens/vit_avg.tsv
+2023-11-28 22:56:53.457532: I Finished
+2023-11-28 22:56:53.457712: I ******************************************
+2023-11-28 22:56:53.460888: I Loading parameters
+2023-11-28 22:56:53.461080: I Parameter name set to 
+2023-11-28 22:56:53.461239: I Parameter path set to predictions/multimedia/movielens/vgg_fc2_1024.tsv
+2023-11-28 22:57:01.661584: I Finished
+2023-11-28 22:57:01.662815: I ******************************************
+2023-11-28 22:57:01.666004: I Loading parameters
+2023-11-28 22:57:01.666390: I Parameter name set to 
+2023-11-28 22:57:01.666508: I Parameter path set to predictions/multimedia/movielens/vit_cls.tsv
+2023-11-28 22:57:10.126474: I Finished
+2023-11-28 22:57:10.127748: I ******************************************

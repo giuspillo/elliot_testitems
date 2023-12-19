@@ -1,0 +1,14 @@
+2023-12-11 16:35:11.546237: I Loading parameters
+2023-12-11 16:35:11.546371: I Parameter neighbors set to 50
+2023-12-11 16:35:11.546420: I Parameter similarity set to cosine
+2023-12-11 16:35:11.546469: I Parameter implementation set to standard
+2023-12-11 16:35:11.546538: I Parameter implicit set to False
+2023-12-11 16:35:11.546586: I Parameter shrink set to 0
+2023-12-11 16:35:11.546627: I Parameter normalize set to True
+2023-12-11 16:35:11.546653: I Parameter asymmetric_alpha set to False
+2023-12-11 16:35:11.546674: I Parameter tversky_alpha set to False
+2023-12-11 16:35:11.546691: I Parameter tversky_beta set to False
+2023-12-11 16:35:11.546707: I Parameter row_weights set to None
+2023-12-11 16:35:12.114787: I Finished
+2023-12-11 16:35:12.114849: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/testitems/recs
+2023-12-11 16:35:12.125676: I ******************************************

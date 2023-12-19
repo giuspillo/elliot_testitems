@@ -1,0 +1,11 @@
+2023-12-19 07:36:23.885655: I Loading parameters
+2023-12-19 07:36:23.885761: I Parameter neighbors set to 1000
+2023-12-19 07:36:23.885790: I Parameter similarity set to dot
+2023-12-19 07:36:23.885813: I Parameter implementation set to classical
+2023-12-19 07:36:23.885838: I Parameter implicit set to False
+2023-12-19 07:36:23.885861: I Parameter shrink set to 0
+2023-12-19 07:36:23.885882: I Parameter normalize set to True
+2023-12-19 07:36:23.885965: I Parameter asymmetric_alpha set to False
+2023-12-19 07:36:23.886031: I Parameter tversky_alpha set to False
+2023-12-19 07:36:23.886085: I Parameter tversky_beta set to False
+2023-12-19 07:36:23.886134: I Parameter row_weights set to None

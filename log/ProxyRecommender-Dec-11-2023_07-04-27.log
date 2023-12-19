@@ -1,0 +1,45 @@
+2023-12-11 07:04:27.428157: I Loading parameters
+2023-12-11 07:04:27.428416: I Parameter name set to 
+2023-12-11 07:04:27.428557: I Parameter path set to external_predictions/multimedia/movielens/03_test_tri_drop03_selfSource_top5.tsv
+2023-12-11 07:04:33.533008: I Finished
+2023-12-11 07:04:33.533259: I ******************************************
+2023-12-11 07:04:33.538498: I Loading parameters
+2023-12-11 07:04:33.538795: I Parameter name set to 
+2023-12-11 07:04:33.539080: I Parameter path set to external_predictions/multimedia/movielens/02_test_tri_drop04_selfEntCross_top5.tsv
+2023-12-11 07:04:39.986850: I Finished
+2023-12-11 07:04:39.987367: I ******************************************
+2023-12-11 07:04:39.992681: I Loading parameters
+2023-12-11 07:04:39.993047: I Parameter name set to 
+2023-12-11 07:04:39.993131: I Parameter path set to external_predictions/multimedia/movielens/01_test_tri_drop04_selfEnt_top5.tsv
+2023-12-11 07:04:46.099601: I Finished
+2023-12-11 07:04:46.099873: I ******************************************
+2023-12-11 07:04:46.104188: I Loading parameters
+2023-12-11 07:04:46.104705: I Parameter name set to 
+2023-12-11 07:04:46.104788: I Parameter path set to external_predictions/multimedia/movielens/04_test_tri_drop03_selfSourceCross_top5.tsv
+2023-12-11 07:04:52.305574: I Finished
+2023-12-11 07:04:52.306237: I ******************************************
+2023-12-11 07:04:52.309085: I Loading parameters
+2023-12-11 07:04:52.309420: I Parameter name set to 
+2023-12-11 07:04:52.309508: I Parameter path set to external_predictions/multimedia/movielens/03_test_tri_drop04_selfSource_top5.tsv
+2023-12-11 07:04:58.404360: I Finished
+2023-12-11 07:04:58.405111: I ******************************************
+2023-12-11 07:04:58.408325: I Loading parameters
+2023-12-11 07:04:58.408794: I Parameter name set to 
+2023-12-11 07:04:58.408921: I Parameter path set to external_predictions/multimedia/movielens/01_test_tri_drop03_selfEnt_top5.tsv
+2023-12-11 07:05:04.847862: I Finished
+2023-12-11 07:05:04.848561: I ******************************************
+2023-12-11 07:05:04.851411: I Loading parameters
+2023-12-11 07:05:04.851790: I Parameter name set to 
+2023-12-11 07:05:04.851897: I Parameter path set to external_predictions/multimedia/movielens/02_test_tri_drop03_selfEntCross_top5.tsv
+2023-12-11 07:05:11.039369: I Finished
+2023-12-11 07:05:11.040193: I ******************************************
+2023-12-11 07:05:11.044433: I Loading parameters
+2023-12-11 07:05:11.044835: I Parameter name set to 
+2023-12-11 07:05:11.044956: I Parameter path set to external_predictions/multimedia/movielens/04_test_tri_drop04_selfSourceCross_top5.tsv
+2023-12-11 07:05:17.156492: I Finished
+2023-12-11 07:05:17.157145: I ******************************************
+2023-12-11 07:05:17.159804: I Loading parameters
+2023-12-11 07:05:17.160188: I Parameter name set to 
+2023-12-11 07:05:17.160311: I Parameter path set to external_predictions/multimedia/movielens/03_test_tri_selfSource_top5.tsv
+2023-12-11 07:05:23.246144: I Finished
+2023-12-11 07:05:23.247902: I ******************************************

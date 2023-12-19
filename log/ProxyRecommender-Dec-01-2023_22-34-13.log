@@ -1,0 +1,55 @@
+2023-12-01 22:34:13.938258: I Loading parameters
+2023-12-01 22:34:13.938588: I Parameter name set to 
+2023-12-01 22:34:13.938753: I Parameter path set to external_predictions/multimedia/movielens/crossatt_selfatt.tsv
+2023-12-01 22:34:20.028569: I Finished
+2023-12-01 22:34:20.029315: I ******************************************
+2023-12-01 22:34:20.033627: I Loading parameters
+2023-12-01 22:34:20.034172: I Parameter name set to 
+2023-12-01 22:34:20.034327: I Parameter path set to external_predictions/multimedia/movielens/umap_concat_umap_emb_top5.tsv
+2023-12-01 22:34:26.415957: I Finished
+2023-12-01 22:34:26.417803: I ******************************************
+2023-12-01 22:34:26.420500: I Loading parameters
+2023-12-01 22:34:26.420877: I Parameter name set to 
+2023-12-01 22:34:26.421025: I Parameter path set to external_predictions/multimedia/movielens/drop 07_selfatt_crossatt.tsv
+2023-12-01 22:34:32.552314: I Finished
+2023-12-01 22:34:32.553089: I ******************************************
+2023-12-01 22:34:32.557575: I Loading parameters
+2023-12-01 22:34:32.558032: I Parameter name set to 
+2023-12-01 22:34:32.558192: I Parameter path set to external_predictions/multimedia/movielens/crossatt_concat.tsv
+2023-12-01 22:34:38.747441: I Finished
+2023-12-01 22:34:38.749032: I ******************************************
+2023-12-01 22:34:38.751881: I Loading parameters
+2023-12-01 22:34:38.752263: I Parameter name set to 
+2023-12-01 22:34:38.752422: I Parameter path set to external_predictions/multimedia/movielens/drop 08_selfatt_crossatt.tsv
+2023-12-01 22:34:44.946028: I Finished
+2023-12-01 22:34:44.947634: I ******************************************
+2023-12-01 22:34:44.950266: I Loading parameters
+2023-12-01 22:34:44.950646: I Parameter name set to 
+2023-12-01 22:34:44.950989: I Parameter path set to external_predictions/multimedia/movielens/0 word.tsv
+2023-12-01 22:34:51.061582: I Finished
+2023-12-01 22:34:51.062432: I ******************************************
+2023-12-01 22:34:51.065190: I Loading parameters
+2023-12-01 22:34:51.065636: I Parameter name set to 
+2023-12-01 22:34:51.065821: I Parameter path set to external_predictions/multimedia/movielens/drop 07_selfatt_concat.tsv
+2023-12-01 22:34:57.206537: I Finished
+2023-12-01 22:34:57.209772: I ******************************************
+2023-12-01 22:34:57.213855: I Loading parameters
+2023-12-01 22:34:57.214311: I Parameter name set to 
+2023-12-01 22:34:57.214498: I Parameter path set to external_predictions/multimedia/movielens/drop 06_selfatt_crossatt.tsv
+2023-12-01 22:35:03.310831: I Finished
+2023-12-01 22:35:03.312847: I ******************************************
+2023-12-01 22:35:03.315593: I Loading parameters
+2023-12-01 22:35:03.316038: I Parameter name set to 
+2023-12-01 22:35:03.316256: I Parameter path set to external_predictions/multimedia/movielens/0 graph.tsv
+2023-12-01 22:35:09.550986: I Finished
+2023-12-01 22:35:09.551838: I ******************************************
+2023-12-01 22:35:09.554742: I Loading parameters
+2023-12-01 22:35:09.555368: I Parameter name set to 
+2023-12-01 22:35:09.555585: I Parameter path set to external_predictions/multimedia/movielens/selfatt_crossatt.tsv
+2023-12-01 22:35:15.675998: I Finished
+2023-12-01 22:35:15.676925: I ******************************************
+2023-12-01 22:35:15.680141: I Loading parameters
+2023-12-01 22:35:15.680686: I Parameter name set to 
+2023-12-01 22:35:15.680900: I Parameter path set to external_predictions/multimedia/movielens/allcross.tsv
+2023-12-01 22:35:21.835222: I Finished
+2023-12-01 22:35:21.839641: I ******************************************

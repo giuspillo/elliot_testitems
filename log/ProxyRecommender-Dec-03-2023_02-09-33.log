@@ -1,0 +1,205 @@
+2023-12-03 02:09:33.642942: I Loading parameters
+2023-12-03 02:09:33.643349: I Parameter name set to 
+2023-12-03 02:09:33.643443: I Parameter path set to external_predictions/multimedia/movielens/graph_vit_cls_merge_top5.tsv
+2023-12-03 02:09:39.737697: I Finished
+2023-12-03 02:09:39.738417: I ******************************************
+2023-12-03 02:09:39.741128: I Loading parameters
+2023-12-03 02:09:39.741451: I Parameter name set to 
+2023-12-03 02:09:39.741593: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_25_top5.tsv
+2023-12-03 02:09:46.097019: I Finished
+2023-12-03 02:09:46.098881: I ******************************************
+2023-12-03 02:09:46.104603: I Loading parameters
+2023-12-03 02:09:46.105098: I Parameter name set to 
+2023-12-03 02:09:46.105211: I Parameter path set to external_predictions/multimedia/movielens/vit_cls_top5.tsv
+2023-12-03 02:09:52.429101: I Finished
+2023-12-03 02:09:52.430497: I ******************************************
+2023-12-03 02:09:52.437193: I Loading parameters
+2023-12-03 02:09:52.437604: I Parameter name set to 
+2023-12-03 02:09:52.437824: I Parameter path set to external_predictions/multimedia/movielens/vgg_4k_vit_avg_merge_top5.tsv
+2023-12-03 02:09:58.841314: I Finished
+2023-12-03 02:09:58.842755: I ******************************************
+2023-12-03 02:09:58.848118: I Loading parameters
+2023-12-03 02:09:58.848744: I Parameter name set to 
+2023-12-03 02:09:58.848888: I Parameter path set to external_predictions/multimedia/movielens/text_top5.tsv
+2023-12-03 02:10:05.126518: I Finished
+2023-12-03 02:10:05.126826: I ******************************************
+2023-12-03 02:10:05.129558: I Loading parameters
+2023-12-03 02:10:05.130338: I Parameter name set to 
+2023-12-03 02:10:05.130561: I Parameter path set to external_predictions/multimedia/movielens/vgg_4k_vit_cls_concat_top5.tsv
+2023-12-03 02:10:11.513481: I Finished
+2023-12-03 02:10:11.516078: I ******************************************
+2023-12-03 02:10:11.520867: I Loading parameters
+2023-12-03 02:10:11.521535: I Parameter name set to 
+2023-12-03 02:10:11.521693: I Parameter path set to external_predictions/multimedia/movielens/vgg_4k_vit_cls_merge_top5.tsv
+2023-12-03 02:10:17.739580: I Finished
+2023-12-03 02:10:17.741459: I ******************************************
+2023-12-03 02:10:17.745169: I Loading parameters
+2023-12-03 02:10:17.745781: I Parameter name set to 
+2023-12-03 02:10:17.745959: I Parameter path set to external_predictions/multimedia/movielens/graph_text_merge_top5.tsv
+2023-12-03 02:10:23.943579: I Finished
+2023-12-03 02:10:23.944338: I ******************************************
+2023-12-03 02:10:23.949202: I Loading parameters
+2023-12-03 02:10:23.949742: I Parameter name set to 
+2023-12-03 02:10:23.950080: I Parameter path set to external_predictions/multimedia/movielens/graph_top5.tsv
+2023-12-03 02:10:30.141241: I Finished
+2023-12-03 02:10:30.143293: I ******************************************
+2023-12-03 02:10:30.147998: I Loading parameters
+2023-12-03 02:10:30.148630: I Parameter name set to 
+2023-12-03 02:10:30.148843: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_top5.tsv
+2023-12-03 02:10:36.293821: I Finished
+2023-12-03 02:10:36.294684: I ******************************************
+2023-12-03 02:10:36.297611: I Loading parameters
+2023-12-03 02:10:36.298115: I Parameter name set to 
+2023-12-03 02:10:36.298293: I Parameter path set to external_predictions/multimedia/movielens/graph_vgg_2k_merge_top5.tsv
+2023-12-03 02:10:42.422661: I Finished
+2023-12-03 02:10:42.423459: I ******************************************
+2023-12-03 02:10:42.426198: I Loading parameters
+2023-12-03 02:10:42.426693: I Parameter name set to 
+2023-12-03 02:10:42.426878: I Parameter path set to external_predictions/multimedia/movielens/vgg_1k_vit_cls_concat_top5.tsv
+2023-12-03 02:10:48.519523: I Finished
+2023-12-03 02:10:48.520460: I ******************************************
+2023-12-03 02:10:48.523408: I Loading parameters
+2023-12-03 02:10:48.523967: I Parameter name set to 
+2023-12-03 02:10:48.524208: I Parameter path set to external_predictions/multimedia/movielens/text_vgg_1k_concat_top5.tsv
+2023-12-03 02:10:54.693335: I Finished
+2023-12-03 02:10:54.694331: I ******************************************
+2023-12-03 02:10:54.697178: I Loading parameters
+2023-12-03 02:10:54.697715: I Parameter name set to 
+2023-12-03 02:10:54.697911: I Parameter path set to external_predictions/multimedia/movielens/graph_vit_avg_merge_top5.tsv
+2023-12-03 02:11:00.826751: I Finished
+2023-12-03 02:11:00.827585: I ******************************************
+2023-12-03 02:11:00.831806: I Loading parameters
+2023-12-03 02:11:00.832438: I Parameter name set to 
+2023-12-03 02:11:00.832712: I Parameter path set to external_predictions/multimedia/movielens/text_vgg_1k_merge_top5.tsv
+2023-12-03 02:11:07.033508: I Finished
+2023-12-03 02:11:07.035765: I ******************************************
+2023-12-03 02:11:07.041138: I Loading parameters
+2023-12-03 02:11:07.041815: I Parameter name set to 
+2023-12-03 02:11:07.042169: I Parameter path set to external_predictions/multimedia/movielens/vgg_4k_vit_avg_concat_top5.tsv
+2023-12-03 02:11:13.187703: I Finished
+2023-12-03 02:11:13.188824: I ******************************************
+2023-12-03 02:11:13.191724: I Loading parameters
+2023-12-03 02:11:13.192239: I Parameter name set to 
+2023-12-03 02:11:13.192486: I Parameter path set to external_predictions/multimedia/movielens/vgg_4k_top5.tsv
+2023-12-03 02:11:19.427128: I Finished
+2023-12-03 02:11:19.429074: I ******************************************
+2023-12-03 02:11:19.434471: I Loading parameters
+2023-12-03 02:11:19.435045: I Parameter name set to 
+2023-12-03 02:11:19.435303: I Parameter path set to external_predictions/multimedia/movielens/graph_25_top5.tsv
+2023-12-03 02:11:25.547113: I Finished
+2023-12-03 02:11:25.548150: I ******************************************
+2023-12-03 02:11:25.552934: I Loading parameters
+2023-12-03 02:11:25.553692: I Parameter name set to 
+2023-12-03 02:11:25.554027: I Parameter path set to external_predictions/multimedia/movielens/text_vgg_4k_merge_top5.tsv
+2023-12-03 02:11:31.645407: I Finished
+2023-12-03 02:11:31.646366: I ******************************************
+2023-12-03 02:11:31.650354: I Loading parameters
+2023-12-03 02:11:31.651029: I Parameter name set to 
+2023-12-03 02:11:31.651305: I Parameter path set to external_predictions/multimedia/movielens/graph_text_concat_top5.tsv
+2023-12-03 02:11:37.798954: I Finished
+2023-12-03 02:11:37.800039: I ******************************************
+2023-12-03 02:11:37.803013: I Loading parameters
+2023-12-03 02:11:37.803717: I Parameter name set to 
+2023-12-03 02:11:37.804012: I Parameter path set to external_predictions/multimedia/movielens/vgg_1k_top5.tsv
+2023-12-03 02:11:44.184440: I Finished
+2023-12-03 02:11:44.189575: I ******************************************
+2023-12-03 02:11:44.192643: I Loading parameters
+2023-12-03 02:11:44.193432: I Parameter name set to 
+2023-12-03 02:11:44.193727: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_vit_avg_concat_top5.tsv
+2023-12-03 02:11:50.351490: I Finished
+2023-12-03 02:11:50.352730: I ******************************************
+2023-12-03 02:11:50.356477: I Loading parameters
+2023-12-03 02:11:50.357540: I Parameter name set to 
+2023-12-03 02:11:50.357989: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_vit_cls_merge_top5.tsv
+2023-12-03 02:11:56.700546: I Finished
+2023-12-03 02:11:56.702818: I ******************************************
+2023-12-03 02:11:56.707804: I Loading parameters
+2023-12-03 02:11:56.708562: I Parameter name set to 
+2023-12-03 02:11:56.709022: I Parameter path set to external_predictions/multimedia/movielens/graph_vit_avg_concat_top5.tsv
+2023-12-03 02:12:03.054142: I Finished
+2023-12-03 02:12:03.055318: I ******************************************
+2023-12-03 02:12:03.059062: I Loading parameters
+2023-12-03 02:12:03.059855: I Parameter name set to 
+2023-12-03 02:12:03.060170: I Parameter path set to external_predictions/multimedia/movielens/text_vit_avg_concat_top5.tsv
+2023-12-03 02:12:09.692706: I Finished
+2023-12-03 02:12:09.696386: I ******************************************
+2023-12-03 02:12:09.699652: I Loading parameters
+2023-12-03 02:12:09.700557: I Parameter name set to 
+2023-12-03 02:12:09.700939: I Parameter path set to external_predictions/multimedia/movielens/vgg_1k_vit_avg_merge_top5.tsv
+2023-12-03 02:12:16.047649: I Finished
+2023-12-03 02:12:16.053429: I ******************************************
+2023-12-03 02:12:16.056960: I Loading parameters
+2023-12-03 02:12:16.057988: I Parameter name set to 
+2023-12-03 02:12:16.058362: I Parameter path set to external_predictions/multimedia/movielens/text_vit_cls_merge_top5.tsv
+2023-12-03 02:12:22.534938: I Finished
+2023-12-03 02:12:22.537142: I ******************************************
+2023-12-03 02:12:22.540502: I Loading parameters
+2023-12-03 02:12:22.542037: I Parameter name set to 
+2023-12-03 02:12:22.542401: I Parameter path set to external_predictions/multimedia/movielens/text_vgg_2k_concat_top5.tsv
+2023-12-03 02:12:28.898447: I Finished
+2023-12-03 02:12:28.901941: I ******************************************
+2023-12-03 02:12:28.907115: I Loading parameters
+2023-12-03 02:12:28.908070: I Parameter name set to 
+2023-12-03 02:12:28.908451: I Parameter path set to external_predictions/multimedia/movielens/graph_vgg_4k_concat_top5.tsv
+2023-12-03 02:12:35.141527: I Finished
+2023-12-03 02:12:35.143032: I ******************************************
+2023-12-03 02:12:35.146488: I Loading parameters
+2023-12-03 02:12:35.147396: I Parameter name set to 
+2023-12-03 02:12:35.147802: I Parameter path set to external_predictions/multimedia/movielens/vit_avg_top5.tsv
+2023-12-03 02:12:41.491051: I Finished
+2023-12-03 02:12:41.496870: I ******************************************
+2023-12-03 02:12:41.503226: I Loading parameters
+2023-12-03 02:12:41.504215: I Parameter name set to 
+2023-12-03 02:12:41.504793: I Parameter path set to external_predictions/multimedia/movielens/text_vgg_2k_merge_top5.tsv
+2023-12-03 02:12:47.955950: I Finished
+2023-12-03 02:12:47.957125: I ******************************************
+2023-12-03 02:12:47.960335: I Loading parameters
+2023-12-03 02:12:47.961079: I Parameter name set to 
+2023-12-03 02:12:47.961477: I Parameter path set to external_predictions/multimedia/movielens/graph_vgg_1k_concat_top5.tsv
+2023-12-03 02:12:54.295289: I Finished
+2023-12-03 02:12:54.297013: I ******************************************
+2023-12-03 02:12:54.301725: I Loading parameters
+2023-12-03 02:12:54.302791: I Parameter name set to 
+2023-12-03 02:12:54.303254: I Parameter path set to external_predictions/multimedia/movielens/text_vit_avg_merge_top5.tsv
+2023-12-03 02:13:00.615489: I Finished
+2023-12-03 02:13:00.621339: I ******************************************
+2023-12-03 02:13:00.626380: I Loading parameters
+2023-12-03 02:13:00.627362: I Parameter name set to 
+2023-12-03 02:13:00.627778: I Parameter path set to external_predictions/multimedia/movielens/vgg_1k_vit_cls_merge_top5.tsv
+2023-12-03 02:13:06.908448: I Finished
+2023-12-03 02:13:06.911468: I ******************************************
+2023-12-03 02:13:06.917119: I Loading parameters
+2023-12-03 02:13:06.918000: I Parameter name set to 
+2023-12-03 02:13:06.918420: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_vit_avg_merge_top5.tsv
+2023-12-03 02:13:13.209955: I Finished
+2023-12-03 02:13:13.216633: I ******************************************
+2023-12-03 02:13:13.221900: I Loading parameters
+2023-12-03 02:13:13.222838: I Parameter name set to 
+2023-12-03 02:13:13.223342: I Parameter path set to external_predictions/multimedia/movielens/vit_avg_25_top5.tsv
+2023-12-03 02:13:19.416114: I Finished
+2023-12-03 02:13:19.423501: I ******************************************
+2023-12-03 02:13:19.427606: I Loading parameters
+2023-12-03 02:13:19.428694: I Parameter name set to 
+2023-12-03 02:13:19.429143: I Parameter path set to external_predictions/multimedia/movielens/graph_vit_cls_concat_top5.tsv
+2023-12-03 02:13:25.534069: I Finished
+2023-12-03 02:13:25.536254: I ******************************************
+2023-12-03 02:13:25.539778: I Loading parameters
+2023-12-03 02:13:25.540616: I Parameter name set to 
+2023-12-03 02:13:25.541129: I Parameter path set to external_predictions/multimedia/movielens/text_vit_cls_concat_top5.tsv
+2023-12-03 02:13:31.689690: I Finished
+2023-12-03 02:13:31.693430: I ******************************************
+2023-12-03 02:13:31.698638: I Loading parameters
+2023-12-03 02:13:31.699667: I Parameter name set to 
+2023-12-03 02:13:31.700162: I Parameter path set to external_predictions/multimedia/movielens/vgg_1k_25_top5.tsv
+2023-12-03 02:13:37.769265: I Finished
+2023-12-03 02:13:37.770585: I ******************************************
+2023-12-03 02:13:37.773702: I Loading parameters
+2023-12-03 02:13:37.774639: I Parameter name set to 
+2023-12-03 02:13:37.775148: I Parameter path set to external_predictions/multimedia/movielens/vgg_2k_vit_cls_concat_top5.tsv
+2023-12-03 02:13:44.004486: I Finished
+2023-12-03 02:13:44.005877: I ******************************************
+2023-12-03 02:13:44.009246: I Loading parameters
+2023-12-03 02:13:44.010381: I Parameter name set to 
+2023-12-03 02:13:44.011061: I Parameter path set to external_predictions/multimedia/movielens/graph_vgg_1k_merge_top5.tsv
+2023-12-03 02:13:50.120203: I Finished
+2023-12-03 02:13:50.127000: I ******************************************

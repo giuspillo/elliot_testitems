@@ -1,0 +1,25 @@
+2023-12-18 15:19:17.676448: I Loading parameters
+2023-12-18 15:19:17.676547: I Parameter factors set to 40
+2023-12-18 15:19:30.606450: I Finished
+2023-12-18 15:19:30.606595: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:19:30.707480: I ******************************************
+2023-12-18 15:19:30.714418: I Loading parameters
+2023-12-18 15:19:30.714549: I Parameter factors set to 20
+2023-12-18 15:19:45.913294: I Finished
+2023-12-18 15:19:45.914315: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:19:46.011811: I ******************************************
+2023-12-18 15:19:46.018113: I Loading parameters
+2023-12-18 15:19:46.018227: I Parameter factors set to 10
+2023-12-18 15:20:00.836909: I Finished
+2023-12-18 15:20:00.837923: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:20:00.944653: I ******************************************
+2023-12-18 15:20:00.951300: I Loading parameters
+2023-12-18 15:20:00.951428: I Parameter factors set to 30
+2023-12-18 15:20:14.079092: I Finished
+2023-12-18 15:20:14.079219: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:20:14.177964: I ******************************************
+2023-12-18 15:20:14.184289: I Loading parameters
+2023-12-18 15:20:14.184412: I Parameter factors set to 50
+2023-12-18 15:20:25.694971: I Finished
+2023-12-18 15:20:25.695338: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:20:25.797315: I ******************************************

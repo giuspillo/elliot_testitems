@@ -1,0 +1,96 @@
+2023-12-18 15:31:31.228448: I Loading parameters
+2023-12-18 15:31:31.228588: I Parameter factors set to 15
+2023-12-18 15:31:31.228711: I Parameter lr set to 0.05
+2023-12-18 15:31:31.228885: I Parameter bias_regularization set to 0
+2023-12-18 15:31:31.228965: I Parameter user_regularization set to 0.0025
+2023-12-18 15:31:31.229052: I Parameter positive_item_regularization set to 0.0025
+2023-12-18 15:31:31.229165: I Parameter negative_item_regularization set to 0.0025
+2023-12-18 15:31:31.229205: I Parameter update_negative_item_factors set to True
+2023-12-18 15:31:31.229234: I Parameter update_users set to True
+2023-12-18 15:31:31.229256: I Parameter update_items set to True
+2023-12-18 15:31:31.229417: I Parameter update_bias set to True
+2023-12-18 15:32:02.337990: I Epoch 1/30 loss 0.00000
+2023-12-18 15:32:02.338319: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:32:02.377199: I ******************************************
+2023-12-18 15:32:28.196627: I Epoch 2/30 loss 0.00000
+2023-12-18 15:32:28.197632: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:32:59.806463: I Epoch 3/30 loss 0.00000
+2023-12-18 15:32:59.806888: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:33:26.468353: I Epoch 4/30 loss 0.00000
+2023-12-18 15:33:26.468506: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:33:55.366095: I Epoch 5/30 loss 0.00000
+2023-12-18 15:33:55.366455: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:34:20.582011: I Epoch 6/30 loss 0.00000
+2023-12-18 15:34:20.582599: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:34:49.441510: I Epoch 7/30 loss 0.00000
+2023-12-18 15:34:49.442541: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:35:14.017791: I Epoch 8/30 loss 0.00000
+2023-12-18 15:35:14.018191: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:35:42.059469: I Epoch 9/30 loss 0.00000
+2023-12-18 15:35:42.059777: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:36:06.609390: I Epoch 10/30 loss 0.00000
+2023-12-18 15:36:06.610443: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:36:31.017942: I Epoch 11/30 loss 0.00000
+2023-12-18 15:36:31.018080: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:36:59.193104: I Epoch 12/30 loss 0.00000
+2023-12-18 15:36:59.193352: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:37:25.681813: I Epoch 13/30 loss 0.00000
+2023-12-18 15:37:25.682125: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:37:56.090575: I Epoch 14/30 loss 0.00000
+2023-12-18 15:37:56.090890: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:38:26.875093: I Epoch 15/30 loss 0.00000
+2023-12-18 15:38:26.875261: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:38:59.238944: I Epoch 16/30 loss 0.00000
+2023-12-18 15:38:59.239226: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:39:25.957783: I Epoch 17/30 loss 0.00000
+2023-12-18 15:39:25.957946: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:39:55.002654: I Epoch 18/30 loss 0.00000
+2023-12-18 15:39:55.003015: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:40:24.669979: I Epoch 19/30 loss 0.00000
+2023-12-18 15:40:24.670265: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:40:56.597999: I Epoch 20/30 loss 0.00000
+2023-12-18 15:40:56.598350: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:41:35.288793: I Epoch 21/30 loss 0.00000
+2023-12-18 15:41:35.289041: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:42:12.519986: I Epoch 22/30 loss 0.00000
+2023-12-18 15:42:12.520290: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:42:59.948746: I Epoch 23/30 loss 0.00000
+2023-12-18 15:42:59.949000: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:43:34.414037: I Epoch 24/30 loss 0.00000
+2023-12-18 15:43:34.414206: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:44:11.064046: I Epoch 25/30 loss 0.00000
+2023-12-18 15:44:11.064332: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:44:50.168607: I Epoch 26/30 loss 0.00000
+2023-12-18 15:44:50.168915: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:45:26.107464: I Epoch 27/30 loss 0.00000
+2023-12-18 15:45:26.107610: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:46:03.701472: I Epoch 28/30 loss 0.00000
+2023-12-18 15:46:03.701869: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:46:40.370346: I Epoch 29/30 loss 0.00000
+2023-12-18 15:46:40.370660: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:47:15.416411: I Epoch 30/30 loss 0.00000
+2023-12-18 15:47:15.416725: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:47:15.459289: I Loading parameters
+2023-12-18 15:47:15.459418: I Parameter factors set to 10
+2023-12-18 15:47:15.459452: I Parameter lr set to 0.1
+2023-12-18 15:47:15.459538: I Parameter bias_regularization set to 0
+2023-12-18 15:47:15.459599: I Parameter user_regularization set to 0.0025
+2023-12-18 15:47:15.459749: I Parameter positive_item_regularization set to 0.0025
+2023-12-18 15:47:15.459828: I Parameter negative_item_regularization set to 0.0025
+2023-12-18 15:47:15.459848: I Parameter update_negative_item_factors set to True
+2023-12-18 15:47:15.459865: I Parameter update_users set to True
+2023-12-18 15:47:15.459881: I Parameter update_items set to True
+2023-12-18 15:47:15.459897: I Parameter update_bias set to True
+2023-12-18 15:47:52.403085: I Epoch 1/30 loss 0.00000
+2023-12-18 15:47:52.403415: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:47:52.446949: I ******************************************
+2023-12-18 15:48:27.078130: I Epoch 2/30 loss 0.00000
+2023-12-18 15:48:27.078389: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:49:03.945636: I Epoch 3/30 loss 0.00000
+2023-12-18 15:49:03.945802: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:49:39.542781: I Epoch 4/30 loss 0.00000
+2023-12-18 15:49:39.543020: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:50:14.829127: I Epoch 5/30 loss 0.00000
+2023-12-18 15:50:14.829429: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:50:51.354295: I Epoch 6/30 loss 0.00000
+2023-12-18 15:50:51.354633: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs

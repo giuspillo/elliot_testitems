@@ -1,0 +1,6 @@
+2023-12-18 21:36:20.158637: I Loading parameters
+2023-12-18 21:36:20.158765: I Parameter similarity set to dot
+2023-12-18 21:36:20.158794: I Parameter user_profile set to binary
+2023-12-18 21:36:20.158813: I Parameter item_profile set to binary
+2023-12-18 21:36:20.158831: I Parameter loader set to ItemAttributes
+2023-12-18 21:36:27.747132: I The similarity computation has taken: 1.0373528003692627

@@ -1,0 +1,56 @@
+2023-12-18 15:29:32.153420: I Loading parameters
+2023-12-18 15:29:32.153520: I Parameter neighbors set to 5000
+2023-12-18 15:29:32.153543: I Parameter similarity set to dot
+2023-12-18 15:29:32.153562: I Parameter implementation set to euclidean
+2023-12-18 15:29:32.153581: I Parameter implicit set to False
+2023-12-18 15:29:32.153597: I Parameter shrink set to 0
+2023-12-18 15:29:32.153613: I Parameter normalize set to True
+2023-12-18 15:29:32.153635: I Parameter asymmetric_alpha set to False
+2023-12-18 15:29:32.153711: I Parameter tversky_alpha set to False
+2023-12-18 15:29:32.153772: I Parameter tversky_beta set to False
+2023-12-18 15:29:32.153815: I Parameter row_weights set to None
+2023-12-18 15:29:50.277516: I Finished
+2023-12-18 15:29:50.277664: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:29:50.290330: I ******************************************
+2023-12-18 15:29:50.295065: I Loading parameters
+2023-12-18 15:29:50.295156: I Parameter neighbors set to 5000
+2023-12-18 15:29:50.295328: I Parameter similarity set to cosine
+2023-12-18 15:29:50.295395: I Parameter implementation set to euclidean
+2023-12-18 15:29:50.295487: I Parameter implicit set to False
+2023-12-18 15:29:50.295546: I Parameter shrink set to 0
+2023-12-18 15:29:50.295577: I Parameter normalize set to True
+2023-12-18 15:29:50.295597: I Parameter asymmetric_alpha set to False
+2023-12-18 15:29:50.295614: I Parameter tversky_alpha set to False
+2023-12-18 15:29:50.295630: I Parameter tversky_beta set to False
+2023-12-18 15:29:50.295647: I Parameter row_weights set to None
+2023-12-18 15:30:08.483792: I Finished
+2023-12-18 15:30:08.484841: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:30:08.501773: I ******************************************
+2023-12-18 15:30:08.507811: I Loading parameters
+2023-12-18 15:30:08.507909: I Parameter neighbors set to 5000
+2023-12-18 15:30:08.507971: I Parameter similarity set to cosine
+2023-12-18 15:30:08.508033: I Parameter implementation set to classical
+2023-12-18 15:30:08.508070: I Parameter implicit set to False
+2023-12-18 15:30:08.508140: I Parameter shrink set to 0
+2023-12-18 15:30:08.508221: I Parameter normalize set to True
+2023-12-18 15:30:08.508304: I Parameter asymmetric_alpha set to False
+2023-12-18 15:30:08.508384: I Parameter tversky_alpha set to False
+2023-12-18 15:30:08.508417: I Parameter tversky_beta set to False
+2023-12-18 15:30:08.508437: I Parameter row_weights set to None
+2023-12-18 15:30:26.828515: I Finished
+2023-12-18 15:30:26.829536: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:30:26.844294: I ******************************************
+2023-12-18 15:30:26.849789: I Loading parameters
+2023-12-18 15:30:26.849922: I Parameter neighbors set to 5000
+2023-12-18 15:30:26.850042: I Parameter similarity set to dot
+2023-12-18 15:30:26.850120: I Parameter implementation set to classical
+2023-12-18 15:30:26.850212: I Parameter implicit set to False
+2023-12-18 15:30:26.850342: I Parameter shrink set to 0
+2023-12-18 15:30:26.850424: I Parameter normalize set to True
+2023-12-18 15:30:26.850460: I Parameter asymmetric_alpha set to False
+2023-12-18 15:30:26.850481: I Parameter tversky_alpha set to False
+2023-12-18 15:30:26.850499: I Parameter tversky_beta set to False
+2023-12-18 15:30:26.850517: I Parameter row_weights set to None
+2023-12-18 15:30:44.953116: I Finished
+2023-12-18 15:30:44.953259: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 15:30:44.965456: I ******************************************

@@ -1,0 +1,8 @@
+2023-11-28 22:26:34.227346: I Loading parameters
+2023-11-28 22:26:34.227478: I Parameter name set to 
+2023-11-28 22:26:34.227565: I Parameter path set to predictions/umap/movielens/0 graph + word.tsv
+2023-11-28 22:26:46.468618: I Finished
+2023-11-28 22:26:46.469821: I ******************************************
+2023-11-28 22:26:46.474311: I Loading parameters
+2023-11-28 22:26:46.474715: I Parameter name set to 
+2023-11-28 22:26:46.474842: I Parameter path set to predictions/umap/movielens/drop 08_selfatt_concat.tsv

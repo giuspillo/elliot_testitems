@@ -1,0 +1,5 @@
+2023-12-12 08:59:56.973973: I Loading parameters
+2023-12-12 08:59:56.974092: I Parameter similarity set to cosine
+2023-12-12 08:59:56.974126: I Parameter user_profile set to binary
+2023-12-12 08:59:56.974201: I Parameter item_profile set to binary
+2023-12-12 08:59:56.974276: I Parameter loader set to ItemAttributes

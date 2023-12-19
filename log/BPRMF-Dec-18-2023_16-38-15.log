@@ -1,0 +1,14 @@
+2023-12-18 16:38:18.005654: I Loading parameters
+2023-12-18 16:38:18.005857: I Parameter factors set to 15
+2023-12-18 16:38:18.005955: I Parameter lr set to 0.05
+2023-12-18 16:38:18.006020: I Parameter bias_regularization set to 0
+2023-12-18 16:38:18.006075: I Parameter user_regularization set to 0.0025
+2023-12-18 16:38:18.006121: I Parameter positive_item_regularization set to 0.0025
+2023-12-18 16:38:18.006171: I Parameter negative_item_regularization set to 0.0025
+2023-12-18 16:38:18.006222: I Parameter update_negative_item_factors set to True
+2023-12-18 16:38:18.006252: I Parameter update_users set to True
+2023-12-18 16:38:18.006274: I Parameter update_items set to True
+2023-12-18 16:38:18.006294: I Parameter update_bias set to True
+2023-12-18 16:39:03.284460: I Epoch 1/30 loss 0.00000
+2023-12-18 16:39:03.285509: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/dbbook/recs
+2023-12-18 16:39:03.327160: I ******************************************

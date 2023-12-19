@@ -1,0 +1,8 @@
+2023-12-01 15:41:07.596859: I Loading parameters
+2023-12-01 15:41:07.596958: I Parameter name set to 
+2023-12-01 15:41:07.596982: I Parameter path set to external_predictions/multimedia/movielens/graph_vit_cls_merge_top5.tsv
+2023-12-01 15:41:14.115736: I Finished
+2023-12-01 15:41:14.116297: I ******************************************
+2023-12-01 15:41:14.119335: I Loading parameters
+2023-12-01 15:41:14.119420: I Parameter name set to 
+2023-12-01 15:41:14.119452: I Parameter path set to external_predictions/multimedia/movielens/vit_cls_top5.tsv

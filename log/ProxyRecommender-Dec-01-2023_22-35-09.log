@@ -1,0 +1,10 @@
+2023-12-01 22:35:09.554742: I Loading parameters
+2023-12-01 22:35:09.555368: I Parameter name set to 
+2023-12-01 22:35:09.555585: I Parameter path set to external_predictions/multimedia/movielens/selfatt_crossatt.tsv
+2023-12-01 22:35:15.675998: I Finished
+2023-12-01 22:35:15.676925: I ******************************************
+2023-12-01 22:35:15.680141: I Loading parameters
+2023-12-01 22:35:15.680686: I Parameter name set to 
+2023-12-01 22:35:15.680900: I Parameter path set to external_predictions/multimedia/movielens/allcross.tsv
+2023-12-01 22:35:21.835222: I Finished
+2023-12-01 22:35:21.839641: I ******************************************

@@ -1,0 +1,41 @@
+2023-12-18 15:11:31.734222: I Loading parameters
+2023-12-18 15:11:31.734443: I Parameter lr set to 0.01
+2023-12-18 15:11:31.734511: I Parameter latent_dim set to 64
+2023-12-18 15:11:31.734572: I Parameter n_layers set to 2
+2023-12-18 15:11:31.734605: I Parameter l_w set to 0.1
+2023-12-18 15:11:31.734721: I Parameter n_fold set to 2
+2023-12-18 15:11:58.366655: I Epoch 1/20 loss 524687.18750
+2023-12-18 15:11:58.367012: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:11:58.430935: I ******************************************
+2023-12-18 15:12:21.704679: I Epoch 2/20 loss 131171.79688
+2023-12-18 15:12:21.705797: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:12:45.126689: I Epoch 3/20 loss 58298.57639
+2023-12-18 15:12:45.127786: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:13:07.795600: I Epoch 4/20 loss 32792.94922
+2023-12-18 15:13:07.796667: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:13:30.477360: I Epoch 5/20 loss 20987.48750
+2023-12-18 15:13:30.477488: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:13:53.326159: I Epoch 6/20 loss 14574.64410
+2023-12-18 15:13:53.327337: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:14:15.889477: I Epoch 7/20 loss 10707.90179
+2023-12-18 15:14:15.889609: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:14:38.788518: I Epoch 8/20 loss 8198.23730
+2023-12-18 15:14:38.789637: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:15:01.538339: I Epoch 9/20 loss 6477.61960
+2023-12-18 15:15:01.538462: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:15:24.359996: I Epoch 10/20 loss 5246.87187
+2023-12-18 15:15:24.360935: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:15:47.082257: I Epoch 11/20 loss 4336.25775
+2023-12-18 15:15:47.083365: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:16:09.922109: I Epoch 12/20 loss 3643.66102
+2023-12-18 15:16:09.923336: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:16:32.598908: I Epoch 13/20 loss 3104.65791
+2023-12-18 15:16:32.599001: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:16:55.555323: I Epoch 14/20 loss 2676.97545
+2023-12-18 15:16:55.556414: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:17:18.849086: I Epoch 15/20 loss 2331.94306
+2023-12-18 15:17:18.849587: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:17:41.924582: I Epoch 16/20 loss 2049.55933
+2023-12-18 15:17:41.925717: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-18 15:18:04.969196: I Epoch 17/20 loss 1815.52660
+2023-12-18 15:18:04.970326: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs

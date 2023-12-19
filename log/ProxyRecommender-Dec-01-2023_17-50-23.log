@@ -1,0 +1,8 @@
+2023-12-01 17:50:26.956131: I Loading parameters
+2023-12-01 17:50:26.956256: I Parameter name set to 
+2023-12-01 17:50:26.956327: I Parameter path set to external_predictions/multimedia/movielens/umap_merge_umap_emb_top5.tsv
+2023-12-01 17:50:35.456229: I Finished
+2023-12-01 17:50:35.456824: I ******************************************
+2023-12-01 17:50:35.459825: I Loading parameters
+2023-12-01 17:50:35.459926: I Parameter name set to 
+2023-12-01 17:50:35.460075: I Parameter path set to external_predictions/multimedia/movielens/umap_merge_dataset_pytorch.tsv

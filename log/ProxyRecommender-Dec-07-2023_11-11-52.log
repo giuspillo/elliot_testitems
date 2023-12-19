@@ -1,0 +1,25 @@
+2023-12-07 11:11:52.880921: I Loading parameters
+2023-12-07 11:11:52.881086: I Parameter name set to 
+2023-12-07 11:11:52.881155: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_concat_top5.tsv
+2023-12-07 11:11:59.054721: I Finished
+2023-12-07 11:11:59.055048: I ******************************************
+2023-12-07 11:11:59.059184: I Loading parameters
+2023-12-07 11:11:59.059324: I Parameter name set to 
+2023-12-07 11:11:59.059429: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop03_self_cross_top5.tsv
+2023-12-07 11:12:05.466601: I Finished
+2023-12-07 11:12:05.467940: I ******************************************
+2023-12-07 11:12:05.472644: I Loading parameters
+2023-12-07 11:12:05.472866: I Parameter name set to 
+2023-12-07 11:12:05.472918: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop03_2self_cross_top5.tsv
+2023-12-07 11:12:11.547114: I Finished
+2023-12-07 11:12:11.547774: I ******************************************
+2023-12-07 11:12:11.550538: I Loading parameters
+2023-12-07 11:12:11.550808: I Parameter name set to 
+2023-12-07 11:12:11.550876: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop04_self_cross_top5.tsv
+2023-12-07 11:12:18.357303: I Finished
+2023-12-07 11:12:18.358967: I ******************************************
+2023-12-07 11:12:18.362028: I Loading parameters
+2023-12-07 11:12:18.362311: I Parameter name set to 
+2023-12-07 11:12:18.362377: I Parameter path set to external_predictions/multimedia/movielens/graph_text_vitcls_tri_drop035_self_cross_top5.tsv
+2023-12-07 11:12:24.525126: I Finished
+2023-12-07 11:12:24.526001: I ******************************************

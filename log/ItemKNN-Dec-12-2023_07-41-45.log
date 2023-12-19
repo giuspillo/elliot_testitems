@@ -1,0 +1,56 @@
+2023-12-12 07:41:45.318737: I Loading parameters
+2023-12-12 07:41:45.318833: I Parameter neighbors set to 400
+2023-12-12 07:41:45.318893: I Parameter similarity set to cosine
+2023-12-12 07:41:45.318982: I Parameter implementation set to standard
+2023-12-12 07:41:45.319095: I Parameter implicit set to False
+2023-12-12 07:41:45.319199: I Parameter shrink set to 0
+2023-12-12 07:41:45.319273: I Parameter normalize set to True
+2023-12-12 07:41:45.319320: I Parameter asymmetric_alpha set to False
+2023-12-12 07:41:45.319345: I Parameter tversky_alpha set to False
+2023-12-12 07:41:45.319365: I Parameter tversky_beta set to False
+2023-12-12 07:41:45.319384: I Parameter row_weights set to None
+2023-12-12 07:42:01.011489: I Finished
+2023-12-12 07:42:01.011633: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-12 07:42:01.171661: I ******************************************
+2023-12-12 07:42:01.183927: I Loading parameters
+2023-12-12 07:42:01.184050: I Parameter neighbors set to 200
+2023-12-12 07:42:01.184091: I Parameter similarity set to cosine
+2023-12-12 07:42:01.184118: I Parameter implementation set to standard
+2023-12-12 07:42:01.184185: I Parameter implicit set to False
+2023-12-12 07:42:01.184273: I Parameter shrink set to 0
+2023-12-12 07:42:01.184504: I Parameter normalize set to True
+2023-12-12 07:42:01.184541: I Parameter asymmetric_alpha set to False
+2023-12-12 07:42:01.184565: I Parameter tversky_alpha set to False
+2023-12-12 07:42:01.184588: I Parameter tversky_beta set to False
+2023-12-12 07:42:01.184625: I Parameter row_weights set to None
+2023-12-12 07:42:16.602381: I Finished
+2023-12-12 07:42:16.602523: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-12 07:42:16.760076: I ******************************************
+2023-12-12 07:42:16.772912: I Loading parameters
+2023-12-12 07:42:16.773062: I Parameter neighbors set to 50
+2023-12-12 07:42:16.773212: I Parameter similarity set to cosine
+2023-12-12 07:42:16.773256: I Parameter implementation set to standard
+2023-12-12 07:42:16.773288: I Parameter implicit set to False
+2023-12-12 07:42:16.773328: I Parameter shrink set to 0
+2023-12-12 07:42:16.773367: I Parameter normalize set to True
+2023-12-12 07:42:16.773390: I Parameter asymmetric_alpha set to False
+2023-12-12 07:42:16.773411: I Parameter tversky_alpha set to False
+2023-12-12 07:42:16.773430: I Parameter tversky_beta set to False
+2023-12-12 07:42:16.773450: I Parameter row_weights set to None
+2023-12-12 07:42:31.770833: I Finished
+2023-12-12 07:42:31.770981: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-12 07:42:31.930901: I ******************************************
+2023-12-12 07:42:31.943672: I Loading parameters
+2023-12-12 07:42:31.943818: I Parameter neighbors set to 100
+2023-12-12 07:42:31.943897: I Parameter similarity set to cosine
+2023-12-12 07:42:31.944009: I Parameter implementation set to standard
+2023-12-12 07:42:31.944110: I Parameter implicit set to False
+2023-12-12 07:42:31.944194: I Parameter shrink set to 0
+2023-12-12 07:42:31.944247: I Parameter normalize set to True
+2023-12-12 07:42:31.944295: I Parameter asymmetric_alpha set to False
+2023-12-12 07:42:31.944321: I Parameter tversky_alpha set to False
+2023-12-12 07:42:31.944341: I Parameter tversky_beta set to False
+2023-12-12 07:42:31.944361: I Parameter row_weights set to None
+2023-12-12 07:42:47.117635: I Finished
+2023-12-12 07:42:47.118142: I Writing recommendations at: /Users/giuse/progs/testitems_elliot/results/movielens/recs
+2023-12-12 07:42:47.276925: I ******************************************

@@ -1,0 +1,10 @@
+2023-12-01 15:41:54.868848: I Loading parameters
+2023-12-01 15:41:54.868979: I Parameter name set to 
+2023-12-01 15:41:54.869003: I Parameter path set to external_predictions/multimedia/movielens/graph_keras.tsv
+2023-12-01 15:42:01.625843: I Finished
+2023-12-01 15:42:01.627058: I ******************************************
+2023-12-01 15:42:01.630333: I Loading parameters
+2023-12-01 15:42:01.630456: I Parameter name set to 
+2023-12-01 15:42:01.630639: I Parameter path set to external_predictions/multimedia/movielens/umap_merge_top5.tsv
+2023-12-01 15:42:09.592840: I Finished
+2023-12-01 15:42:09.593322: I ******************************************
